@@ -1,0 +1,77 @@
+# .project metadata for OpenFeature
+# Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
+
+# TODO: Set identity_type under legal (has_dco, has_cla)
+# TODO: Add adopters list (ADOPTERS.md)
+# TODO: Add package_managers if distributed via registries
+
+schema_version: "1.0.0"
+slug: "openfeature"
+name: "OpenFeature"
+description: "Standardizing Feature Flagging for Everyone"
+type: "project"
+project_lead: "AlexsJones" # TODO: AUTO-DETECTED — please verify
+slack_channels: # TODO: AUTO-DETECTED — please verify the channel(s) below
+  - name: "#openfeature"
+    link: "https://cloud-native.slack.com/messages/openfeature"
+    primary: true
+  - name: "#openfeature-rust"
+  - name: "#openfeature-remote-evaluation-protocol"
+
+maturity_log:
+  - phase: "incubating"
+    date: "2022-06-17T00:00:00Z"
+    issue: "https://github.com/cncf/sandbox/issues/214" # TODO: AUTO-DETECTED — please verify
+
+repositories: # TODO: AUTO-DETECTED primary — please verify
+  - url: "https://github.com/open-feature/spec"
+    primary: true
+    # tags: [core, sig-apps] # Optional
+
+website: "https://openfeature.dev/"
+
+artwork: "https://landscape.cncf.io/logos/openfeature.svg"
+
+# TODO: Add ADOPTERS.md if your project tracks adopters
+# adopters:
+#   path: "https://github.com/open-feature/spec/blob/main/ADOPTERS.md"
+
+
+# TODO: Add package manager identifiers if your project is distributed via registries
+# package_managers:
+#   docker: "open-feature/spec"
+
+social:
+  twitter: "https://twitter.com/openfeature"
+
+security:
+  policy:
+    path: "https://github.com/open-feature/.github/blob/main/SECURITY.md"
+  contact:
+    advisory_url: "https://github.com/open-feature/spec/security/advisories/new"
+
+governance:
+  contributing:
+    path: "https://github.com/open-feature/.github/blob/main/CONTRIBUTING.md"
+  code_of_conduct:
+    path: "https://github.com/open-feature/.github/blob/main/CODE_OF_CONDUCT.md"
+
+legal:
+  license:
+    path: "https://github.com/open-feature/spec/blob/main/LICENSE"
+  identity_type:
+    has_dco: true
+    has_cla: false
+    dco_url:
+      path: "https://developercertificate.org/"
+
+documentation:
+  readme:
+    path: "https://github.com/open-feature/spec/blob/main/README.md"
+
+landscape:
+  category: "Observability and Analysis"
+  subcategory: "Feature Flagging"
+
+# CLOMonitor Score: 90/100
+# Documentation: 99 | License: 93 | Best Practices: 75 | Security: 83
