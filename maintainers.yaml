@@ -9,22 +9,19 @@ maintainers:
     teams:
       - name: "maintainers"
         members:
-          - AlexsJones
-          - aloisreitbauer
-          - andrewdmaclean
           - dabeeeenster
           - DavidPHirsch
           - jonathannorris
-          - justinabrahms
           - lukas-reining
           - beeme1mr
           - moredip
           - kinyoklion
           - thomaspoignant
           - toddbaert
-          - weyert
           - aepfli
           - askpt
+          - cupofcat
+          - nicklasl
       # Unmanaged teams: teams with "managed: false" are tracked in this
       # file for documentation but are excluded from CNCF resource
       # provisioning (mailing lists, service desk, Copilot seats, etc).
