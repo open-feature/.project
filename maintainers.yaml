@@ -22,6 +22,41 @@ maintainers:
           - askpt
           - cupofcat
           - nicklasl
+          # Active SDK maintainers, last 12 months (from the open-feature sdk-*-maintainers GitHub teams)
+          # C++ SDK
+          - oxddr
+          - NeaguGeorgiana23
+          - m-olko
+          - tangenti
+          # Dart SDK
+          - ABC2015
+          - brian-chebon
+          # .NET SDK
+          - benjiro
+          - kylejuliandev
+          # Elixir SDK
+          - ejscunha
+          # Go SDK
+          - erka
+          - sahidvelji
+          # Java SDK
+          - chrfwow
+          - justinabrahms
+          # JavaScript SDK: all maintainers already listed above
+          # Kotlin and Swift SDKs
+          - vahidlazio
+          - fabriziodemaria
+          # PHP SDK
+          - JamieSinn
+          # Python SDK
+          - federicobond
+          - matthewelwell
+          - gruebel
+          # Ruby SDK
+          - josecolella
+          # Rust SDK
+          - erenatas
+          - sheepduke
       # Unmanaged teams: teams with "managed: false" are tracked in this
       # file for documentation but are excluded from CNCF resource
       # provisioning (mailing lists, service desk, Copilot seats, etc).
