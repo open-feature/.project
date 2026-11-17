@@ -62,7 +62,7 @@ repositories: # TODO: AUTO-DETECTED primary — please verify
 
 website: "https://openfeature.dev/"
 
-artwork: "https://landscape.cncf.io/logos/openfeature.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/openfeature"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
